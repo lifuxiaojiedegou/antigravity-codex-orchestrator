@@ -1,0 +1,17 @@
+{
+  "name": "codex-orchestrator",
+  "displayName": "Codex Orchestrator",
+  "version": "1.0.0",
+  "description": "Coordinate OpenAI Codex CLI (gpt-6.2-sol) for backend development and second-opinion code reviews while Antigravity handles architecture, API contracts, frontend, and end-to-end verification.",
+  "author": {
+    "name": "lifuxiaojiedegou",
+    "url": "https://github.com/lifuxiaojiedegou"
+  },
+  "homepage": "https://github.com/lifuxiaojiedegou/antigravity-codex-orchestrator",
+  "repository": "https://github.com/lifuxiaojiedegou/antigravity-codex-orchestrator",
+  "suggestedPrompts": [
+    "Build a full-stack app: Antigravity designs the API contract and frontend while Codex CLI implements the backend",
+    "Draft an API contract first, then dispatch backend implementation and tests to Codex CLI",
+    "Ask Codex CLI (gpt-6.2-sol) for a strict second-opinion code review on uncommitted changes"
+  ]
+}
